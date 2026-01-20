@@ -2,7 +2,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cottas-rdf/.github/main/logo/logo_full_white.png">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cottas-rdf/.github/main/logo/logo_full.png">
-    <img alt="COTTAS"  height="130" src="[https://raw.githubusercontent.com/morph-kgc/3xmap-studio/main/logo/logo.png](https://raw.githubusercontent.com/cottas-rdf/.github/main/logo/logo_full.png)">
+    <img alt="COTTAS"  height="120" src="[https://raw.githubusercontent.com/morph-kgc/3xmap-studio/main/logo/logo.png](https://raw.githubusercontent.com/cottas-rdf/.github/main/logo/logo_full.png)">
   </picture>
 </p>
 
