@@ -1,5 +1,9 @@
 <p align="center">
-<img src="https://github.com/morph-kgc/morph-kgc/blob/main/logo/logo.png" height="110" alt="COTTAS">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cottas-rdf/.github/main/logo/logo_full_white.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cottas-rdf/.github/main/logo/logo_full.png">
+    <img alt="COTTAS"  height="130" src="[https://raw.githubusercontent.com/morph-kgc/3xmap-studio/main/logo/logo.png](https://raw.githubusercontent.com/cottas-rdf/.github/main/logo/logo_full.png)">
+  </picture>
 </p>
 
 🏡 Home of the **COTTAS** format for [RDF](https://www.w3.org/TR/rdf11-concepts/) graphs: specifications, tools, and reference implementations for efficient and compressed RDF storage.
